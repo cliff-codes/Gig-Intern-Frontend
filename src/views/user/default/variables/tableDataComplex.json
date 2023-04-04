@@ -1,0 +1,26 @@
+[
+  {
+    "name":"PHP Skill",
+    "status": "Approved",
+    "date": "1 Apr 2023",
+    "progress": 75.5  
+  },
+  {
+    "name":"React JS Skill",
+    "status": "Disable",
+    "date": "1 Apr 2023",
+    "progress": 25.5  
+  },
+  {
+    "name":"HTML",
+    "status": "Error",
+    "date": "1 Apr 2023",
+    "progress": 90  
+  },
+  {
+    "name":"CSS",
+    "status": "Approved",
+    "date": "1 Apr 2023",
+    "progress": 50.5  
+  }
+]

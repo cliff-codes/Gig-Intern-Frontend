@@ -1,0 +1,26 @@
+[{
+  "name":["React JS Course",false],
+  "date": "12 Jan 2021",
+  "progress": 17.5  
+},
+{
+  "name":["Laravel 10 Course",true],
+  "date": "21 Feb 2021",
+  "progress": 10.8  
+},
+{
+  "name":["HTML5 Course",true],
+  "date": "13 Mar 2021",
+  "progress": 21.3  
+},
+{
+  "name":["CSS (Bootstrap Course)",true],
+  "date": "24 Jan 2021",
+  "progress": 31.5  
+},
+{
+  "name":["Django Course",false],
+  "date": "24 Oct 2022",
+  "progress": 12.2  
+}
+]
